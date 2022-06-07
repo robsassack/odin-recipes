@@ -1,4 +1,4 @@
-# odin-recipes
+# Odin Recipes
 
 A basic recipes site made from HTML.
 
